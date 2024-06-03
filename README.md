@@ -128,9 +128,6 @@ CSEG ENDS
  END START 
 
 ```
-
- ![Screenshot (3)](https://github.com/slavko444/8085-Zadaca-11/blob/main/Code%2011%2C1.png)
- ![Screenshot (4)](https://github.com/slavko444/8085-Zadaca-11/blob/main/Code%2011.2.png)
  
 **Develop by:**
 
