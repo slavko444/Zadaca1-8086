@@ -128,7 +128,9 @@ CSEG ENDS
  END START 
 
 ```
- 
+ ![Screenshot (2)](https://github.com/slavko444/Zadaca1-8086/blob/main/Zadaca1.1%208086%20code.png)
+ ![Screenshot (3)](https://github.com/slavko444/Zadaca1-8086/blob/main/Zadaca1.2%208086%20code.png)
+ ![Screenshot (4)](https://github.com/slavko444/Zadaca1-8086/blob/main/Zadaca1.3%208086%20code.png)
 **Develop by:**
 
 [Slavko Srebrenoski ](https://github.com/slavko444)
